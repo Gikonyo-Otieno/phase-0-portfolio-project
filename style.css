@@ -25,14 +25,14 @@ body {
 
 h1{
     /* Make text bigger */
-    font-size: 5em;
+    font-size: 3.5em;
     /* Margins*/
     margin-top: 0;
     margin-bottom: 0.2em;
 }
 
 h2{
-    font-size: 3em;
+    font-size: 1.5em;
 }
 
 .btn{
@@ -63,8 +63,9 @@ h2{
     padding-top: 1em;
 }
 img{
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
+    padding-bottom: 0.5em;
 }
 .Future{
     font-family: 'American Typewriter','Serif';
